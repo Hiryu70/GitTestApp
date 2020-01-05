@@ -9,6 +9,8 @@ namespace GitTestApp
 			PrintHelloWorld("Hello World!");
 			PrintHelloWorld("Hello World1!");
 			PrintHelloWorld("Hello World2!");
+			PrintHelloWorld("Hello World3!");
+			PrintHelloWorld("Hello World4!");
 		}
 
 		static void PrintHelloWorld(string str)
