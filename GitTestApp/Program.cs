@@ -15,7 +15,7 @@ namespace GitTestApp
 
 		static void PrintHelloWorld(string str)
 		{
-			Console.WriteLine(str);
+			Console.WriteLine($"-!--{str}--!-");
 		}
 	}
 }
